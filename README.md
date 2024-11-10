@@ -1,10 +1,10 @@
 # DevOps-Course-2024
 Repository for my devops course
 
-#📚 What i've learned
+# 📚 What i've learned
 In my university DevOps course, I gained a foundational understanding of DevOps principles, including the importance of collaboration, automation, and continuous improvement in the software development lifecycle. I learned the basics of Docker, focusing on containerization to ensure consistency across environments, as well as Kubernetes for orchestrating containerized applications at scale. The course introduced advanced tools such as Knative for serverless workloads on Kubernetes, Kyverno for policy enforcement in Kubernetes clusters, and Keptn for automating DevOps processes and enhancing reliability. Additionally, I learned about CI/CD pipelines, which emphasized the automation of testing and deployment for efficient, reliable software delivery.
 
-#📝 Summary of my Last 2 blogs
+# 📝 Summary of my Last 2 blogs
 The blog “CI/CD: A beginner’s guide” provides a thorough overview of CI/CD, emphasizing its importance in speeding up software delivery while upholding high standards. It highlights how CI/CD practices facilitate automation in software development, reducing risks linked to code changes and fostering early bug detection. A comparison is made between traditional, linear development methods and CI/CD’s iterative technique, which allows for continuous integration of modifications, testing, and deployment. By promoting an automated workflow, CI/CD reduces errors, enhances collaboration, and streamlines the delivery of features and fixes. The blog also dissects key pipeline elements such as Source Code Management (SCM), automated builds, testing, deployment, and monitoring, clarifying the function of each stage in the overall process.
 
 Additionally, the blog walks readers through the process of establishing a basic CI/CD pipeline, detailing important tools like Git for version control, Jenkins and GitLab CI for continuous integration, along with deployment tools such as AWS CodePipeline. It suggests best practices, including frequent commits, expedited builds, and thorough testing, to enhance CI/CD workflows. It also tackles typical CI/CD challenges, like cultural adjustments, legacy systems, infrastructure intricacies, and test automation, providing actionable solutions for each. In the end, the blog illustrates how a properly executed CI/CD pipeline fosters efficient and dependable software delivery, revolutionizing the development cycle by enabling quicker releases with minimized risk and enhanced quality.
